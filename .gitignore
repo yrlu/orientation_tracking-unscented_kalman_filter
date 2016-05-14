@@ -1,0 +1,11 @@
+*.mat
+*.DS_Store
+*.m~
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.zip
+*.txt
+*.mexmaci64
+*.fig
