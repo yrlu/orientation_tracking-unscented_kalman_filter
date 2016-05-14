@@ -1,4 +1,4 @@
-## UPenn ESE 650 Learning in Robotics, Project 2: Orientation Tracking with Unscented Kalman Filter
+## UPenn ESE 650 Learning in Robotics, Project 2: Orientation Tracking and Image Stitching Based on  Unscented Kalman Filter
 
 ### By Max Lu
 
