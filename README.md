@@ -13,3 +13,5 @@ Implemeted Unscented Kalman Filter (UKF) following paper:
 - Panoramic image stitching video:
 
 [![img_stitching](img_stitching.jpg)](https://www.youtube.com/watch?v=c10qWCd7E4U "image stitching")
+
+- Another ukf implementation can be found [here](https://github.com/stormmax/vision-based_estimations)
