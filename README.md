@@ -1,6 +1,6 @@
 ## Unscented Kalman Filter for Orientation Tracking
 
-UPenn ESE 650 Learning in Robotics, Project 2: Unscented Kalman Filter for Orientation Trackin and Image Panoramic Stitching
+UPenn ESE 650 Learning in Robotics, Project 2: Unscented Kalman Filter for Orientation Tracking and Image Panoramic Stitching
 
 Implemeted Unscented Kalman Filter (UKF) following paper: 
 
